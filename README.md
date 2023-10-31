@@ -36,5 +36,5 @@ En nuestro sitio web nos dedicamos a servir a aquellas personas que buscan los m
 1. Clona este repositorio en tu máquina local utilizando Git:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/JohannSerrano/Pet-Shop.git
 
