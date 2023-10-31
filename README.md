@@ -6,7 +6,7 @@
 
 ## Propósito del Sitio
 
-Breve descripción del propósito y objetivo del sitio web que has desarrollado.
+En nuestro sitio web nos dedicamos a servir a aquellas personas que buscan los mejores productos y cuidados de mayor calidad para sus mascotas, nuestra mision es crear un ambiente amigable y accesible para nuestros clientes donde puedan encontrar todo lo que necesitan para sus pequeños compañeros.
 
 ---
 
@@ -36,5 +36,5 @@ Breve descripción del propósito y objetivo del sitio web que has desarrollado.
 1. Clona este repositorio en tu máquina local utilizando Git:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/JohannSerrano/Pet-Shop.git
 
