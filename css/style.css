@@ -900,7 +900,7 @@
      display: inline-block;
 }
  .filter-button-group button{
-     background: #b0b435;
+     background: rgba(170, 83, 16, 0.898);
      color: #ffffff;
      border: none;
      cursor: pointer;
@@ -908,7 +908,7 @@
      font-size: 18px;
 }
  .filter-button-group button.active{
-     background: #000000;
+     background: #613a3a;
 }
  .filter-button-group button{
 }
@@ -1229,7 +1229,7 @@
      transition: all 0.3s ease;
 }
  .main-instagram.owl-carousel .owl-nav button.owl-next:hover, .main-instagram.owl-carousel .owl-nav button.owl-prev:hover{
-     background: #b0b435;
+     background: rgba(170, 83, 16, 0.898);
 }
  .ins-inner-box{
      position: relative;
@@ -1790,7 +1790,7 @@
      height: 100%;
 }
  .search-product button:hover{
-     background: #b0b435;
+     background: rgba(170, 83, 16, 0.898);
 }
  .filter-sidebar-left{
      margin-bottom: 20px;
