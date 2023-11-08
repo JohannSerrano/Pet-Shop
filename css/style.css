@@ -933,7 +933,7 @@
      z-index:8;
 }
  .type-lb .sale{
-     background: #b0b435;
+     background: rgba(170, 83, 16, 0.898);
      color: #ffffff;
      padding: 2px 10px;
      font-weight: 700;
@@ -1162,7 +1162,7 @@
      border-right-color: rgba(170, 83, 16, 0.898) !important;
 }
  .tooltip.bs-tooltip-top .arrow:before {
-     border-top-color: #b0b435 !important;
+     border-top-color: rgba(170, 83, 16, 0.898) !important;
 	 padding-top: 0px !important;
      top: 0px !important;
 }
@@ -1864,7 +1864,7 @@
      box-shadow: 0px 0px 6.65px 0.35px rgba(0,0,0,0.15);
 }
  #slider-range .ui-slider-range {
-     background-color: #b0b435;
+     background-color: rgba(170, 83, 16, 0.898);
      border-radius: 0;
 }
  #slider-range {
@@ -2184,7 +2184,7 @@
      box-shadow: none;
 }
  .custom-radio .custom-control-input:checked ~ .custom-control-label::before {
-     background-color: #b0b435;
+     background-color: rgba(170, 83, 16, 0.898);
      box-shadow: none;
 }
  .new-account-login h5 {
@@ -2193,7 +2193,7 @@
      font-weight: 600;
 }
  .new-account-login h5 a:hover{
-     color: #b0b435;
+     color: rgba(170, 83, 16, 0.898);
 }
  .review-form-box button{
      padding: 10px 20px;
@@ -2239,7 +2239,7 @@
      color: #000000;
 }
  .my-account-page a:hover{
-     color: #b0b435;
+     color: rgba(170, 83, 16, 0.898);
 }
  .service-icon i{
      font-size: 34px;
@@ -2315,10 +2315,10 @@
     }
      40% {
          opacity: 0.5;
-         box-shadow: 0 0 0 2px rgba(0, 53, 68, 0.1), 0 0 10px 10px #b0b435, 0 0 0 10px rgba(0, 53, 68, 0.5);
+         box-shadow: 0 0 0 2px rgba(0, 53, 68, 0.1), 0 0 10px 10px rgba(170, 83, 16, 0.898), 0 0 0 10px rgba(0, 53, 68, 0.5);
     }
      100% {
-         box-shadow: 0 0 0 2px rgba(0, 53, 68, 0.1), 0 0 10px 10px #b0b435, 0 0 0 10px rgba(0, 53, 68, 0.5);
+         box-shadow: 0 0 0 2px rgba(0, 53, 68, 0.1), 0 0 10px 10px rgba(170, 83, 16, 0.898), 0 0 0 10px rgba(0, 53, 68, 0.5);
          -webkit-transform: scale(1.5);
          opacity: 0;
     }
@@ -2329,10 +2329,10 @@
     }
      40% {
          opacity: 0.5;
-         box-shadow: 0 0 0 2px rgba(0, 53, 68, 0.1), 0 0 10px 10px #b0b435, 0 0 0 10px rgba(0, 53, 68, 0.5);
+         box-shadow: 0 0 0 2px rgba(0, 53, 68, 0.1), 0 0 10px 10px rgba(170, 83, 16, 0.898), 0 0 0 10px rgba(0, 53, 68, 0.5);
     }
      100% {
-         box-shadow: 0 0 0 2px rgba(0, 53, 68, 0.1), 0 0 10px 10px #b0b435, 0 0 0 10px rgba(0, 53, 68, 0.5);
+         box-shadow: 0 0 0 2px rgba(0, 53, 68, 0.1), 0 0 10px 10px rgba(170, 83, 16, 0.898), 0 0 0 10px rgba(0, 53, 68, 0.5);
          -moz-transform: scale(1.5);
          opacity: 0;
     }
@@ -2343,7 +2343,7 @@
     }
      40% {
          opacity: 0.5;
-         box-shadow: 0 0 0 2px rgba(0, 53, 68, 0.1), 0 0 10px 10px #b0b435, 0 0 0 10px rgba(0, 53, 68, 0.5);
+         box-shadow: 0 0 0 2px rgba(0, 53, 68, 0.1), 0 0 10px 10px rgba(170, 83, 16, 0.898); 0 0 0 10px rgba(0, 53, 68, 0.5);
     }
      100% {
          box-shadow: 0 0 0 2px rgba(0, 53, 68, 0.1), 0 0 10px 10px #3851bc, 0 0 0 10px rgba(0, 53, 68, 0.5);
@@ -2396,9 +2396,6 @@
      top: 5px rgba(170, 83, 16, 0.898);
      padding-right: 6px;
      color: rgba(170, 83, 16, 0.898);
-}
- .contact-info-left ul li p a:hover{
-     color: 
 }
  .contact-form-right{
      padding: 20px;
@@ -2482,7 +2479,7 @@
      font-size: 24px;
 }
  .single-product-details h5 {
-     color: #b0b435;
+     color: rgba(170, 83, 16, 0.898);
      font-weight: 700;
      font-size: 18px;
 }
